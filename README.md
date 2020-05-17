@@ -1,0 +1,2 @@
+# Automated-Detection-of-Diabetic-Retinopathy-using-Deep-Learning
+We have implemented an automatic DR grading system which is capable of image classification based on disease pathologies from four severity levels and which determines the sensitivity and specificity of 4-ary classification models. To enhance sensitivities of mild and early classes, we are planning to train the multi-class models including various methods of data pre-processing and data augmentation. 
